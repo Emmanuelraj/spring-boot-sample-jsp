@@ -1,0 +1,16 @@
+img {
+    float: left;
+    width:  200px;
+    height: 200px;
+    background-size: cover;
+}
+
+.materialboxed responsive-img
+{
+    object-fit: contain;
+}
+
+.section-contact h5 {
+    margin-bottom: 30px;
+  }
+  
